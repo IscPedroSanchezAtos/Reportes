@@ -1,0 +1,6 @@
+interface InformeAnual {
+
+
+   void informeAnual ();
+
+}
